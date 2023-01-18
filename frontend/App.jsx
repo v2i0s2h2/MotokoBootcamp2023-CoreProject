@@ -10,7 +10,7 @@ import "@connect2ic/core/style.css"
 /*
  * Import canister definitions like this:
  */
-import * as counter from "../.dfx/local/canisters/counter"
+import * as backend from "../.dfx/local/canisters/backend"
 /*
  * Some examples to get you started
  */
